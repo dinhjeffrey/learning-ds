@@ -7,3 +7,10 @@ The 20 tosses had a lower upper CI than the 10 tosses
 2. How the confidence intervals change when you change the confidence level?
 Lower CI goes up, Upper CI goes down - when you lower CI
 Vice versa
+
+3. How do the P-values change when you change the values of A and B?
+When I lower B, the P value goes up. When I increase B, the P value goes down.
+Vice versa for A.
+
+4. How do the p-values in trials 1-5 differ from the p-values in trials 6-10?
+The P values seem the same.
