@@ -1,0 +1,9 @@
+Buffon's Needle
+
+Note the following: 
+1. How the confidence intervals using 20 tosses differ from the confidence intervals based on 10 tosses?
+The 20 tosses had a lower upper CI than the 10 tosses
+
+2. How the confidence intervals change when you change the confidence level?
+Lower CI goes up, Upper CI goes down - when you lower CI
+Vice versa
