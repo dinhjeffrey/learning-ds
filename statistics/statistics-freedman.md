@@ -35,3 +35,18 @@
 6. In an observational study, a confounding factor can sometimes be <i>controlled for</i>, by comparing smaller groups which are relatively homogeneous with respect to the factor.
 
 7. Study design is a central issue in applied statistics. Chapter 1 introduced the idea of randomized experiements, and chapter 2 draws the contrast with observational studies. The great weakness of observational studies in confounding; randomized experiments minimize this problem. Statistical inference from randomized experiments will be discussed in chapter 27.
+
+#Part 2: Descriptive Statistics
+
+##Chapter 3: The Histogram
+
+###Summary
+1. A <i>histogram</i> represents percents by area. It consists of a set of blocks. The area of each block represents the percentage of cases in the corresponding <i>class interval</i>.
+
+2. With the <i>density scale</i>, the height of each block equals the percentage of cases in the corresponding class interval, divided by the length of that interval.
+
+3. With the density scale, area comes out in percent, and the total area is 100%. The area under the histogram between two values gives the percentage of cases falling in that interval.
+
+4. A <i>variable</i> is a characteristic of the subjects in a study. It can be either <i>qualitative</i> or <i>quantitative</i>. A quantitative variable can be either <i>discrete</i> or <i>continuous</i>.
+
+5. A confounding factor is sometimes controlled for by <i>cross-tabulation</i>.
