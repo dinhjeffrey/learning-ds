@@ -50,3 +50,24 @@
 4. A <i>variable</i> is a characteristic of the subjects in a study. It can be either <i>qualitative</i> or <i>quantitative</i>. A quantitative variable can be either <i>discrete</i> or <i>continuous</i>.
 
 5. A confounding factor is sometimes controlled for by <i>cross-tabulation</i>.
+
+##Chapter 4: The Average and the Standard Deviation
+
+###Summary
+1. A typical list of numbers can be summarized by its <i>average</i> and <i>standard deviation</i> (SD).
+
+2. Average of a list = (sum of entries) / (number of entries)
+
+3. The average locates the center of a histogram, in the sense that the histogram balances when supported at the average.
+
+4. Half the area under a histogram lies to the left of the <i>median</i>, and half to the right. The median is another way to locate the center of a histogram. 
+
+5. The <i>r.m.s. size</i> of a list measures how big the entries are, neglecting signs.
+
+6. r.m.s. size of a list = sqrt(average of entries^2)
+
+7. The SD measures distance from the average. Each number on a list is off the average by some amount. The SD is a sort of average size for these amounts off. More technically, the SD is the r.m.s. size of the deviations from the average. 
+
+8. Roughly 68% of the entries on a list of numbers are within one SD of the average, and about 95% are within two SDs of the average. This is so for many lists, but not all.
+
+9. If a study draws conclusions about the effects of age, find out whether the data are cross-sectional or longitudinal.
