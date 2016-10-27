@@ -71,3 +71,5 @@
 8. Roughly 68% of the entries on a list of numbers are within one SD of the average, and about 95% are within two SDs of the average. This is so for many lists, but not all.
 
 9. If a study draws conclusions about the effects of age, find out whether the data are cross-sectional or longitudinal.
+
+##Chapter 5: The Normal Approximation for Data
