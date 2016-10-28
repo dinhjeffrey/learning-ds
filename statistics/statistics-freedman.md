@@ -73,3 +73,4 @@
 9. If a study draws conclusions about the effects of age, find out whether the data are cross-sectional or longitudinal.
 
 ##Chapter 5: The Normal Approximation for Data
+
