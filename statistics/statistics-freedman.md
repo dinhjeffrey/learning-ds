@@ -74,3 +74,16 @@
 
 ##Chapter 5: The Normal Approximation for Data
 
+1. The <i>normal curve</i> is symmetric about 0, and the total area under it is 100%.
+
+2. <i>Standard units</i> say how many SDs a value is, above(+) or below(-) the average.
+
+3. Many histograms have roughly the same shape as the normal curve.
+
+4. If a list of numbers follows the normal curve, the percentage of entries falling in a given interval can be estimated by converting the interval to standard units, and then finding the corresponding area under the normal curve. This procedure is called the <i>normal approximation</i>.
+
+5. A histogram which follows the normal curve can be reconstructed fairly well from its average and SD. In such cases, the average and SD are good summary statistics.
+
+6. All histograms, whether or not they follow the normal curve, can be summarized using <i>percentiles</i>.
+
+7. If you add the same number to every entry on a list, that constant just gets added to the average; the SD does not change. If you multiply every entry on a list by the same positive number, the average and the SD just get multiplied by that constant. (If the constant is negative, wipe out the sign before multiplying the SD.)
