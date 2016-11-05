@@ -74,6 +74,7 @@
 
 ##Chapter 5: The Normal Approximation for Data
 
+###Summary
 1. The <i>normal curve</i> is symmetric about 0, and the total area under it is 100%.
 
 2. <i>Standard units</i> say how many SDs a value is, above(+) or below(-) the average.
@@ -87,3 +88,26 @@
 6. All histograms, whether or not they follow the normal curve, can be summarized using <i>percentiles</i>.
 
 7. If you add the same number to every entry on a list, that constant just gets added to the average; the SD does not change. If you multiply every entry on a list by the same positive number, the average and the SD just get multiplied by that constant. (If the constant is negative, wipe out the sign before multiplying the SD.)
+
+##Chapter 6: Measurement Error
+
+###Summary
+1. No matter how carefully it was made, a measurement could have turned out a bit differently. This refects <i>chance error</i>. Before investigators rely on a measurement, they should estimate the likely size of the chance error. The best way to do that: <i>replicate</i> the measurement.
+
+2. The likely size of the chance error in a single measurement can be estimated by the SD of a sequence of repeated measurements made under the same conditions.
+
+3. <i>Bias</i>, or <i>systematic error</i>, causes measurements to be systematically too high or systematically too low. The equation is
+
+* individual measurement = exact value + bias + chance error. 
+
+The chance error changes from measurement to measurement, but the bias stays the same. Bias cannot be estimated just by repeating the measurements.
+
+4. Even in careful measurement work, a small percentage of <i>outliers</i> can be expected.
+
+5. The average and SD can be strongly influenced by outliers. Then the histogram will not follow the normal curve at all well.
+
+6. This part of the book introduced two basic descriptive statistics, the average and the standard deviation; histograms were used to summarize data. For many data sets, the histogram follows the normal curve. Chapter 6 illustrate these ideas on measurement data. Later in the book, histograms will be used for probability distributions, and statistical inference will be base don the normal curve. This is legitimate when the probability histograms follow the curve--the topic of chapter 18.
+
+##Chapter 7: Plotting Points and Lines
+
+###Summary
