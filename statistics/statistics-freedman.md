@@ -111,3 +111,30 @@ The chance error changes from measurement to measurement, but the bias stays the
 ##Chapter 7: Plotting Points and Lines
 
 ###Summary
+1. Just creating cartesian coordinates.
+
+##Chapter 8: Correlation
+
+###Summary 
+1. The relationship between two variables can be represented by a <i>scatter diagram</i>. When the scatter diagram is tightly clustered around a line, there is a strong <i>linear association</i> between the variables.
+
+2. A scatter diagram can be summarized by means of five statistics:
+* the average of the x-values, the SD of the x-values,
+* the average of the y-values, the SD of the y-values,
+* the <i>correlation coefficient r</i>.
+
+3. Positive assocaition (a cloud which slopes up) is indicated by a plus-sign in the correlation coefficient. Negative association (a cloud which slopes down) is indicated by a minus-sign.
+
+4. In a series of scatter diagram with the same SDs. as <i>r</i> gets closer to +/- 1, the points cluster more tightly around a line.
+
+5. The correlation coefficient ranges from -1 (when all the points lie on a line which slopes down), to +1 (when all the points lie on a lie which slopes up).
+
+6. The <i>SD line</i> goes through the point of averages. When <i>r</i> is positive, the slope of the line is 
+
+(SD of y) / (SD of x).
+
+When r is negative, the slope is 
+
+-(SD of y) / (SD of x).
+
+7. To calculate the correlation coefficient, convert each variable to standard units, and then take the average product.
