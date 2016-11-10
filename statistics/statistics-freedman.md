@@ -138,3 +138,5 @@ When r is negative, the slope is
 -(SD of y) / (SD of x).
 
 7. To calculate the correlation coefficient, convert each variable to standard units, and then take the average product.
+
+##Chapter 9: More about Correlation
