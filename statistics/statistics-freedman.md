@@ -142,3 +142,16 @@ When r is negative, the slope is
 ##Chapter 9: More about Correlation
 
 ###Summary
+1. The correlation coefficient is a pure number, without units. It is not affected by
+
+* interchanging the two variables,
+* adding the same number to all the values of one variable,
+* multiplying all the values of one variable by the same positive number.
+
+2. The correlation coefficient measures clustering around a line, relative to the SDs. 
+
+3. The correlation coefficient can be misleadin in the presence of outliers or non-linear association. Whenever possible, look at the scatter diagram to check for these problems
+
+4. <i>Ecological</i> correlations, which are based on rates or averages, tend to overstate the strength of association for individuals.
+
+5. Correlation measures association. But association does not necessarily show causation. It may only show that both variables are simultaneously influenced by some third variable.
