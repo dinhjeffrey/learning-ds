@@ -155,3 +155,8 @@ When r is negative, the slope is
 4. <i>Ecological</i> correlations, which are based on rates or averages, tend to overstate the strength of association for individuals.
 
 5. Correlation measures association. But association does not necessarily show causation. It may only show that both variables are simultaneously influenced by some third variable.
+
+##Chapter 10: Regression
+
+###Summary
+1. 
