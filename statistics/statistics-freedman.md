@@ -159,4 +159,4 @@ When r is negative, the slope is
 ##Chapter 10: Regression
 
 ###Summary
-1. 
+1. Asociated with an increase of one SD in x, there is an increase of only r SDs in y, on the average. Plotting these <i>regression estimates</i> gives the <i>regression line</i> for y on x.
