@@ -160,3 +160,5 @@ When r is negative, the slope is
 
 ###Summary
 1. Asociated with an increase of one SD in x, there is an increase of only r SDs in y, on the average. Plotting these <i>regression estimates</i> gives the <i>regression line</i> for y on x.
+
+2. The <i>graph of averages</i> is often close to a straight line, but may be a little bumpy. The regression line smooths out the bumps. If the graph of averages is a straight line, then it coincides with the regression line. If the graph of averages has a strong non-linear pattern, regression may be inappropriate.
