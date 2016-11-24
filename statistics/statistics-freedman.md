@@ -162,3 +162,11 @@ When r is negative, the slope is
 1. Asociated with an increase of one SD in x, there is an increase of only r SDs in y, on the average. Plotting these <i>regression estimates</i> gives the <i>regression line</i> for y on x.
 
 2. The <i>graph of averages</i> is often close to a straight line, but may be a little bumpy. The regression line smooths out the bumps. If the graph of averages is a straight line, then it coincides with the regression line. If the graph of averages has a strong non-linear pattern, regression may be inappropriate.
+
+3. The regression line can be used to make predictions for individuals. But if you have to extrapolate far from the data, or to a different group of subjects, be careful.
+
+4. In a typical test-retest situation, the subjects get different scores on the two tests. Take the bottom group on the first test. Some improve on the second test, others do worse. On average, the bottom group shows an improvement. Now, the top group: some do better the second time, others fall back. On average, the top group does worse the second time. This is the <i>regression effect</i>, and it happens whenever the scatter diagram spreads out around the SD line into a football-shaped cloud of points.
+
+5. The <i>regression fallacy</i> consists in thinking that the regression effect must be due to something other than spread around the SD line.
+
+6. There are two regression lines that can be drawn on a scatter diagram. One predicts y from x; the other predicts x from y.
