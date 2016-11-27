@@ -170,3 +170,9 @@ When r is negative, the slope is
 5. The <i>regression fallacy</i> consists in thinking that the regression effect must be due to something other than spread around the SD line.
 
 6. There are two regression lines that can be drawn on a scatter diagram. One predicts y from x; the other predicts x from y.
+
+##Chapter 11: The R.M.S Error for Regression
+
+###Summary
+
+1. When the regression line is used to predict y from x, the difference between the actual value and the predicted value is a <i>residual</i>, or prediction error.
