@@ -176,3 +176,6 @@ When r is negative, the slope is
 ###Summary
 
 1. When the regression line is used to predict y from x, the difference between the actual value and the predicted value is a <i>residual</i>, or prediction error.
+
+2. In a scatter diagram, the vertical distance of a point above or below the regression line is the graphical counterpart of the prediction error made by the regression method.
+
