@@ -180,3 +180,13 @@ When r is negative, the slope is
 2. In a scatter diagram, the vertical distance of a point above or below the regression line is the graphical counterpart of the prediction error made by the regression method.
 
 3. The r.m.s. error of the regression line is the root-mean-square of the residuals. This measures the accuracy of the regression predictions. The predictions are off by amounts similar in size to the r.m.s. error. For many scatter diagrams, about 68% of the predictions will be right to within one r.m.s. error. About 95% will be right to within two r.m.s. errors.
+
+4. The SD of y is equal to the r.m.s. error of a horizontal line through the average of y. The r.m.s. error of the regression line is smaller, by the factor sqrt(1-r^2). Therefore, the r.m.s. error for the regression line of y on x can be figured as 
+
+* sqrt(1-r^2) x the SD of y
+
+5. After carrying out a regression, statisticians often graph the residuals. If the residual plot shows a pattern, the regression may not have been appropriate.
+
+6. When all the vertical strips in a scatter diagram show similar amounts of spread, the diagram is <i>homoscedastic</i>: the prediction errors are similar in size all along the regression line. When the scatter diagram is <i>heteroscedastic</i>, the prediction errors are different in different parts of the scatter diagram. Football-shaped diagrams are homoscedastic.
+
+7. Suppose that a scatter diagram is football-shaped. Take the points inside a narrow vertical strip. Their y-values are a new data set. The new average is estimated by the regression method. The new SD is about equal to the r.m.s. error for the regression line. And the normal approximation can be done as usual, based on the new average and the new SD.
