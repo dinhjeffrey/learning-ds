@@ -190,3 +190,9 @@ When r is negative, the slope is
 6. When all the vertical strips in a scatter diagram show similar amounts of spread, the diagram is <i>homoscedastic</i>: the prediction errors are similar in size all along the regression line. When the scatter diagram is <i>heteroscedastic</i>, the prediction errors are different in different parts of the scatter diagram. Football-shaped diagrams are homoscedastic.
 
 7. Suppose that a scatter diagram is football-shaped. Take the points inside a narrow vertical strip. Their y-values are a new data set. The new average is estimated by the regression method. The new SD is about equal to the r.m.s. error for the regression line. And the normal approximation can be done as usual, based on the new average and the new SD.
+
+#Chapter 12: The Regression Line
+
+##Summary
+
+1. 
