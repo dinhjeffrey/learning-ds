@@ -195,4 +195,16 @@ When r is negative, the slope is
 
 ##Summary
 
-1. 
+1. The regression line can be specified by two descriptive statistics: the <i>slope</i> and the <i>intercept</i>.
+
+2. The slope of the regression line for y on x is the average change in y, per unit change in x. This equals
+* r x SD of y/SD of x.
+
+3. The intercept of the regression line equals the regression estimate for y, when x is 0.
+
+4. The equation of the regression line for y on x is 
+* y = slope x <i>x</i> + intercept
+
+5. The equation can be used to make all the regression predictions, by substitution.
+
+6. Among all lines, the regression line for y on x makes the smallest r.m.s. error in predicting y from x. For that reason, the regression line is often called the <i>least squares line</i>.
