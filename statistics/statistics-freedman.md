@@ -208,3 +208,13 @@ When r is negative, the slope is
 5. The equation can be used to make all the regression predictions, by substitution.
 
 6. Among all lines, the regression line for y on x makes the smallest r.m.s. error in predicting y from x. For that reason, the regression line is often called the <i>least squares line</i>.
+
+7. Sometimes, two quantities are thought to be connected by a linear relationship (for example, length and weight in Hooke's law). The statistical problem is to estimate the slope and intercept of the line. The <i>least squares estimates</i> are the slope and intercept of the regression line.
+
+8. In this part of the book, scatter diagrams are used to graph the association between two variables. If the scatter diagram is football-shaped, it can be summarized by the average and SD of the two variables, with r to measure the strength of the association. 
+
+9. How does the average of one variable depend on the values of the other variable? The regression line can be used to answer that question.
+
+10. With a controlled experiement, the slope can tell you the average change in y that would be caused by a change in x. With an observational study, however, the slope cannot be relied on to predict the results of interventions. It takes a lot of hard work to draw casual inferences from observational data, with or without regression.
+
+11. If the average of y depends on x in a non-linear way, the regression line can be quite misleading.
