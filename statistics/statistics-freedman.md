@@ -222,3 +222,6 @@ When r is negative, the slope is
 #Part IV Probability
 
 #Chapter 13: What are the chances?
+
+##Summary:
+1. The <i>frequency theory</i> of chance applies most directly to chance processes which can be repeated over and over again, independently and under the same conditions.
