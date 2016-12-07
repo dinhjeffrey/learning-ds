@@ -218,3 +218,7 @@ When r is negative, the slope is
 10. With a controlled experiement, the slope can tell you the average change in y that would be caused by a change in x. With an observational study, however, the slope cannot be relied on to predict the results of interventions. It takes a lot of hard work to draw casual inferences from observational data, with or without regression.
 
 11. If the average of y depends on x in a non-linear way, the regression line can be quite misleading.
+
+#Part IV Probability
+
+#Chapter 13: What are the chances?
