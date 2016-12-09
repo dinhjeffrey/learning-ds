@@ -225,3 +225,7 @@ When r is negative, the slope is
 
 ##Summary:
 1. The <i>frequency theory</i> of chance applies most directly to chance processes which can be repeated over and over again, independently and under the same conditions.
+
+2. The chance of something gives the percentage of times the thing is expected to happen, when the basic process is repeated over and over again.
+
+3. Chances are between 0% and 100%. Impossibility is represented by 0% certainty by 100%.
