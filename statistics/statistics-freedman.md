@@ -233,3 +233,7 @@ When r is negative, the slope is
 4. The chance of something equals 100% minus the chance of the opposite thing. 
 
 5. The chance that two things will both happen equals the chance that the first will happen, multiplied the <i>conditional</i> chance that the second will happen given that the first has happened. This is the <i>multiplication rule</i>.
+
+6. Two things are <i>independent</i> if the chances for the second one stay the same no matter how the first one turns out.
+
+7. If two things are independent, the chance that both will happen equals the product of their unconditional chances. This is a special case of the multiplication rule.
