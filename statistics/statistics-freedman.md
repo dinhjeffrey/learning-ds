@@ -229,3 +229,7 @@ When r is negative, the slope is
 2. The chance of something gives the percentage of times the thing is expected to happen, when the basic process is repeated over and over again.
 
 3. Chances are between 0% and 100%. Impossibility is represented by 0% certainty by 100%.
+
+4. The chance of something equals 100% minus the chance of the opposite thing. 
+
+5. The chance that two things will both happen equals the chance that the first will happen, multiplied the <i>conditional</i> chance that the second will happen given that the first has happened. This is the <i>multiplication rule</i>.
