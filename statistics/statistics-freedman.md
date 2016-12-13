@@ -237,3 +237,10 @@ When r is negative, the slope is
 6. Two things are <i>independent</i> if the chances for the second one stay the same no matter how the first one turns out.
 
 7. If two things are independent, the chance that both will happen equals the product of their unconditional chances. This is a special case of the multiplication rule.
+
+8. When you draw at random, all the tickets in the box have the same chance to be picked. Draws made at random with replacement are independent. Without replacement, the draws are dependent.
+
+9. Blindly multiplying chances can make real trouble. Check for independence, or use conditional chances.
+
+10. The mathematical theory of chance only applies in some situations. Using it elsewhere can lead to ridiculuous results.
+
