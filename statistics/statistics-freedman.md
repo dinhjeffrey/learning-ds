@@ -249,3 +249,5 @@ When r is negative, the slope is
 ##Summary
 
 1. When figuring chacnes, one helpful strategy is to write down a complete list of all the possible ways that the chance process can turn out. If this is too hard, at least write down a few typical ways, and count how many ways there are in total.
+
+2. The chance that at least one of the two things will happen equals the sum of the individual chances, provided the things are mutually exclusive. Otherwise, adding the chances will give the wrong answer -- double counting.
