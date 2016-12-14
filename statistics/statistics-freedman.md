@@ -244,3 +244,8 @@ When r is negative, the slope is
 
 10. The mathematical theory of chance only applies in some situations. Using it elsewhere can lead to ridiculuous results.
 
+#Chapter 14: More about Chance
+
+##Summary
+
+1. When figuring chacnes, one helpful strategy is to write down a complete list of all the possible ways that the chance process can turn out. If this is too hard, at least write down a few typical ways, and count how many ways there are in total.
