@@ -258,4 +258,4 @@ When r is negative, the slope is
 
 ###Summary
 
-1. 
+1. <i>binomial coefficient</i> n! / (k! (n-k)!) gives the number of ways to arrange n objects in a row, when k are alike of one kind and n-k are alike of another kind (for instance, red and blue marbles). 
