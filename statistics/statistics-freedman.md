@@ -253,3 +253,9 @@ When r is negative, the slope is
 2. The chance that at least one of the two things will happen equals the sum of the individual chances, provided the things are mutually exclusive. Otherwise, adding the chances will give the wrong answer -- double counting.
 
 3. If you are having trouble working out the hcnace of an event, try to figure out the chance of its opposite; then subtract from 100%.
+
+##Chapter 15: The Binomial Formula
+
+###Summary
+
+1. 
