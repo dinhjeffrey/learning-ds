@@ -258,4 +258,11 @@ When r is negative, the slope is
 
 ###Summary
 
-1. <i>binomial coefficient</i> n! / (k! (n-k)!) gives the number of ways to arrange n objects in a row, when k are alike of one kind and n-k are alike of another kind (for instance, red and blue marbles). 
+1. <i>binomial coefficient</i> n! / (k! (n-k)!) gives the number of ways to arrange n objects in a row, when k are alike of one kind and n-k are alike of another kind (for instance, red and blue marbles).
+
+2. The chance that an event will occur exactly k times out of n is given by the binomial formula n! / (k!(n-k)!) p^k(1-p)^(n-k) 
+
+In this formula, n is the number of trials, k is the number of times the event is to occur, and p is the probability that the event will occur on any particular trial. The assumptions: 
+* The value of n must be fixed in advance.
+* p must be the same from trial to trial.
+* The trials must be independent. 
