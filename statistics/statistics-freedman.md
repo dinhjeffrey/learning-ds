@@ -266,3 +266,5 @@ In this formula, n is the number of trials, k is the number of times the event i
 * The value of n must be fixed in advance.
 * p must be the same from trial to trial.
 * The trials must be independent. 
+
+3. This part of the book defined conditional probabilities, indepenedence, and the multiplication rule. The additional rule was introduced for mutually exclusive events.
