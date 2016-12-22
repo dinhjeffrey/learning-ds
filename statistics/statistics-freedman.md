@@ -270,3 +270,5 @@ In this formula, n is the number of trials, k is the number of times the event i
 3. This part of the book defined conditional probabilities, indepenedence, and the multiplication rule. The additional rule was introduced for mutually exclusive events.
 
 4. The binomial formula is an application of the multiplication rule combined with the addition rule.
+
+5. Independence is the basis for the statistical theory to be developed in part V, and the crucial assumption behind many of the procedures to be discussed in parts VI-VIII.
