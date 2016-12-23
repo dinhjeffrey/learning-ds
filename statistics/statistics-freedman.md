@@ -272,3 +272,11 @@ In this formula, n is the number of trials, k is the number of times the event i
 4. The binomial formula is an application of the multiplication rule combined with the addition rule.
 
 5. Independence is the basis for the statistical theory to be developed in part V, and the crucial assumption behind many of the procedures to be discussed in parts VI-VIII.
+
+#Part V: Chance Variability
+
+##Chapter 16: The Law of Averages
+
+###Summary
+
+1. 
