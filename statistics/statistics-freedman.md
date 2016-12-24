@@ -279,4 +279,6 @@ In this formula, n is the number of trials, k is the number of times the event i
 
 ###Summary
 
-1. 
+1. There is <i>chance error</i> in the number of heads:
+
+* number of heads = half the number of tosses + chance error.
