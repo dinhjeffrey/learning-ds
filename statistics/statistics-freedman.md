@@ -282,3 +282,5 @@ In this formula, n is the number of trials, k is the number of times the event i
 1. There is <i>chance error</i> in the number of heads:
 
 * number of heads = half the number of tosses + chance error.
+
+The error is likely to be large in absolute terms, but small relative to the number of tosses. That is the <i>law of averages</i>.
