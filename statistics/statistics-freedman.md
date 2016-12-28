@@ -288,3 +288,5 @@ The error is likely to be large in absolute terms, but small relative to the num
 2. The law of averages can be stated in percentage terms. With a large number of tosses, the percentage of heads is likely to be close to 50%, although it is not likely to be exactly equal to 50%.
 
 3. The law of averages does not work by changing the chances. For example, after a run of heads in coin tossing, a head is still just as likely as a tail.
+
+4. A complicated chance process for generating a number often be modeled by drawing a box. The sum of the draws is a key ingredient.
