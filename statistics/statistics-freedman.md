@@ -290,3 +290,16 @@ The error is likely to be large in absolute terms, but small relative to the num
 3. The law of averages does not work by changing the chances. For example, after a run of heads in coin tossing, a head is still just as likely as a tail.
 
 4. A complicated chance process for generating a number often be modeled by drawing a box. The sum of the draws is a key ingredient.
+
+5. The basic questions to ask when making a box model: 
+* Which numbers go into the box?
+* How many of each kind?
+* How many draws?
+
+6. For gambling problems in which the same bet is made several times, a box model can be set up as follows:
+
+* The tickets in the box show the amount that can be won (+) or lost (-) on each play.
+* The chance of drawing any particular value from the box equals the chance of winning that amount on a single play.
+* The number of draws equals the number of plays.
+
+Then, the <i>net gain</i> is like the sum of the draws from the box.
