@@ -303,3 +303,9 @@ The error is likely to be large in absolute terms, but small relative to the num
 * The number of draws equals the number of plays.
 
 Then, the <i>net gain</i> is like the sum of the draws from the box.
+
+##Chapter 17: The Expected Value and Standard Error
+
+###Summary
+
+1. 
