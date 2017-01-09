@@ -313,3 +313,9 @@ Then, the <i>net gain</i> is like the sum of the draws from the box.
 2. When drawing at random with replacement from a box of numbered tickets, each draw adds to the sum an amount which is around the average of the box. So the xpected value for the sum is
 
 * (number of draws) x (average of box)
+
+3. When drawing at random with replacement form a box of numbered tickets, 
+
+* SE for sum = sqrt(number of draws) x (SD of box)
+
+This is the <i>square root law</i>.
