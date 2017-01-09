@@ -309,3 +309,7 @@ Then, the <i>net gain</i> is like the sum of the draws from the box.
 ###Summary
 
 1. An <i>observed values</i> should be somewhere around the <i>expected value</i>; the difference is chance error. The likely size of the chance error is given by the <i>standard error</i>. For instance, the sum of the draws from a box will be around the expected value, give or take a standard error or so.
+
+2. When drawing at random with replacement from a box of numbered tickets, each draw adds to the sum an amount which is around the average of the box. So the xpected value for the sum is
+
+* (number of draws) x (average of box)
