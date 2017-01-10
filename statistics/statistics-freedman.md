@@ -319,3 +319,7 @@ Then, the <i>net gain</i> is like the sum of the draws from the box.
 * SE for sum = sqrt(number of draws) x (SD of box)
 
 This is the <i>square root law</i>.
+
+4. When a list has only two different numbers ("big" and "small"), the SD can be figured by a short cut method:
+
+* (big number - small number) x sqrt(fraction with big number x fraction with small number)
