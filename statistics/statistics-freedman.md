@@ -323,3 +323,5 @@ This is the <i>square root law</i>.
 4. When a list has only two different numbers ("big" and "small"), the SD can be figured by a short cut method:
 
 * (big number - small number) x sqrt(fraction with big number x fraction with small number)
+
+5. If you have to classify and count the draws, remember to put 1 on the tickets that count for you, 0 on the others.
