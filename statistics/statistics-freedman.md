@@ -327,3 +327,5 @@ This is the <i>square root law</i>.
 5. If you have to classify and count the draws, remember to put 1 on the tickets that count for you, 0 on the others.
 
 6. Provided the number of draws is sufficiently large, the normal curve can be used to figure chances for the sum of the draws.
+
+##Chapter 18: The Normal Approximation for Probability Histograms
