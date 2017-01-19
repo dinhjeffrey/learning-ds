@@ -329,3 +329,7 @@ This is the <i>square root law</i>.
 6. Provided the number of draws is sufficiently large, the normal curve can be used to figure chances for the sum of the draws.
 
 ##Chapter 18: The Normal Approximation for Probability Histograms
+
+###Summary
+
+1. If the chance process for getting a sum is repeated many times, the empirical histogram for the observed value converges to the probability histogram.
