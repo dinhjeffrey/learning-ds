@@ -333,3 +333,5 @@ This is the <i>square root law</i>.
 ###Summary
 
 1. If the chance process for getting a sum is repeated many times, the empirical histogram for the observed value converges to the probability histogram.
+
+2. A probability histogram represents chance by area.
